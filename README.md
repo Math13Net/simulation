@@ -13,10 +13,10 @@ fundamentals of queuing systems - thomopoulos
 computer simulation - osais
 introduction to probability models - ross
 
-##queueing simulation
+## queueing simulation
 https://towardsdatascience.com/simulating-a-queuing-system-in-python-8a7d1151d485
 https://pypi.org/project/queueing-tool/
 
 
-##traffic simulation
+## traffic simulation
 https://towardsdatascience.com/simulating-traffic-flow-in-python-ee1eab4dd20f
